@@ -25,8 +25,8 @@ logger = logging.getLogger(__name__)
 MAIN_MENU, ASSET_SELECTION, TIMEFRAME_SELECTION, METRIC_SELECTION = range(4)
 
 # Configuration
-BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "8125089797:AAEbRSG4JpmS41G2txhPds7l6sYKz1PDvF0")
-VYBE_API_KEY = os.environ.get("VYBE_API_KEY", "ZYofNVCsyqxkcTDNNvo9MhCSyFBmNe35QMLTcts9BtThuCFE")
+BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "Insert Telegram Bot Token here") # Get this from the requirements.txt file
+VYBE_API_KEY = os.environ.get("VYBE_API_KEY", "Insert Vybe API Key here") # Get this from the requirements.txt file
 VYBE_API_BASE_URL = "https://api.vybenetwork.xyz"
 ALPHAVYBE_BASE_URL = "https://alphavybe.fyi"
 
