@@ -2,7 +2,7 @@
 
 A powerful Telegram bot that provides actionable, real-time crypto insights using Vybe.fyi APIs. This bot helps traders make informed decisions by delivering market intelligence, asset analysis, and customizable alerts directly in Telegram.
 
-![VybeInsightBot Banner](/vybelogo.jpg)
+![VybeInsightBot Banner](/vybelogo360x360.jpg)
 
 ## 🚀 Features
 
